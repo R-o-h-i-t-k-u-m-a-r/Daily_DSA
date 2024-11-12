@@ -4,6 +4,7 @@ import java.util.Arrays;
 
 class Solution {
     public int binaryFunc(int items[][], int val){
+        //T.C : O(logn)
         int left = 0;
         int right = items.length - 1;
         int mid = 0;
@@ -22,7 +23,8 @@ class Solution {
         return maxBeauty;
     }
     public int[] maximumBeauty(int[][] items, int[] queries) {
-        //Approach : using sorting technique T.C = O(nlogn)+O(n^2)
+        //Approach : Sorting and Binary Search
+        //T.C : O(nlogn)+O(q*logn)
         //sort the items based on price
         // Arrays.sort(items,new Comparator<int[]>(){
         //     public int compare(int a[],int b[]){
