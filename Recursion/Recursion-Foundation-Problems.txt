@@ -1,0 +1,18 @@
+// Aditya Verma Recursion Problems
+1.  https://www.geeksforgeeks.org/problems/print-1-to-n-without-using-loops3621/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=practice_card
+2.  https://www.geeksforgeeks.org/find-the-maximum-depth-or-height-of-a-tree/
+3.  https://leetcode.com/problems/sort-an-array/
+4.  https://www.geeksforgeeks.org/problems/sort-a-stack/1
+5.  https://www.geeksforgeeks.org/delete-middle-element-stack/
+6.  https://www.geeksforgeeks.org/problems/reverse-a-stack/1
+7.  https://leetcode.com/problems/k-th-symbol-in-grammar
+8.  https://practice.geeksforgeeks.org/problems/tower-of-hanoi/0
+9.  https://www.geeksforgeeks.org/problems/power-set4302/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=practice_card
+10. https://practice.geeksforgeeks.org/problems/subsets/0
+11. https://practice.geeksforgeeks.org/problems/permutation-with-spaces/0
+12. https://www.geeksforgeeks.org/problems/permutations-of-a-given-string2041/1
+13. https://www.geeksforgeeks.org/permute-string-changing-case
+14. https://leetcode.com/problems/letter-case-permutation
+15. https://www.interviewbit.com/problems/generate-all-parentheses-ii
+16. https://practice.geeksforgeeks.org/problems/print-n-bit-binary-numbers-having-more-1s-than-0s/0
+17. https://practice.geeksforgeeks.org/problems/game-of-death-in-a-circle/0
